@@ -21,7 +21,7 @@
         "laravel-notification-channels/fcm": "^5.0",
         "laravel/framework": "^12.0",
         "laravel/helpers": "*",
-        "laravel/legacy-factories": "1.x-dev",
+        "laravel/legacy-factories": "^1.4",
         "laravel/sanctum": "^4.2.0",
         "laravel/scout": "^10.20.0",
         "laravel/tinker": "^2.10.1",
